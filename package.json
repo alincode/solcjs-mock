@@ -1,6 +1,6 @@
 {
   "name": "solcjs-mock",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "solcjs mock",
   "main": "src/index.js",
   "scripts": {

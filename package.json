@@ -13,6 +13,14 @@
     "solcjs"
   ],
   "author": "alincode <alincode@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alincode/solcjs-mock.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alincode/solcjs-mock/issues"
+  },
+  "homepage": "https://github.com/alincode/solcjs-mock#readme",
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
